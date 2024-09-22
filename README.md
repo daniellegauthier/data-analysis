@@ -1,6 +1,6 @@
-**Correlation Heatmap Visualization**
-*Overview*
-This Jupyter notebook contains code to generate and display a correlation heatmap based on data from a CSV file. The heatmap provides a visual representation of the correlations between different variables in the World Bank dataset, allowing for quick identification of strong positive or negative relationships.
+**Correlation Heatmap Visualization**<br>
+*Overview*<br>
+This Jupyter notebook contains code to generate and display a correlation heatmap based on data from a CSV file. The heatmap provides a visual representation of the correlations between different variables in the World Bank dataset, allowing for quick identification of strong positive or negative relationships.<br>
 *Contents*
 The notebook includes the following main components:
 
