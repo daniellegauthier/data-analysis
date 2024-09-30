@@ -10,7 +10,7 @@ Data loading and preprocessing<br>
 Correlation heatmap generation<br>
 Heatmap display and interpretation<br>
 <br>
-*Dataset from World bank*<br>
+*Dataset from World Bank*<br>
 The notebook features the following files:<br>
 annual gdp per capita<br>
 cardon dioxide emissions<br>
