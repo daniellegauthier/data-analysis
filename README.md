@@ -5,7 +5,6 @@ This Jupyter notebook contains code to generate and display a correlation heatma
 <br>
 *Contents*<br>
 The notebook includes the following main components:<br>
-<br>
 Data loading and preprocessing<br>
 Correlation heatmap generation<br>
 Heatmap display and interpretation<br>
@@ -26,22 +25,20 @@ time required to start a business<br>
 <br>
 *Requirements*<br>
 To run this notebook, you'll need the following Python libraries:<br>
-<br>
 pandas<br>
 numpy<br>
 matplotlib<br>
 seaborn<br>
 <br>
 You can install these libraries using pip:<br>
-Copypip install pandas numpy matplotlib seaborn<br>
-Usage<br>
+Copy: !pip install pandas numpy matplotlib seaborn<br>
 <br>
+*Usage*<br>
 Ensure you have a CSV file named correlation_results.csv in the same directory as this notebook. This file should contain your correlation matrix, with each cell containing a string in the format "correlation_value (p=p_value)".<br>
 Open the notebook in Jupyter Lab or Jupyter Notebook.<br>
 Run all cells in the notebook sequentially.<br>
 <br>
 *Interpreting the Heatmap*<br>
-<br>
 The heatmap shows correlations between all pairs of variables in your dataset.<br>
 Color intensity indicates the strength of the correlation:<br>
 <br>
@@ -54,7 +51,6 @@ The diagonal will always show perfect correlation (1.0) as it represents each va
 <br>
 *Troubleshooting*<br>
 If you encounter any issues:<br>
-<br>
 Ensure your correlation_results.csv file is correctly formatted.<br>
 Check that all required libraries are installed and up to date.<br>
 Verify that the CSV file is in the same directory as the notebook.<br>
