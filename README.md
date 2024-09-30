@@ -10,6 +10,20 @@ Data loading and preprocessing<br>
 Correlation heatmap generation<br>
 Heatmap display and interpretation<br>
 <br>
+*Dataset from World bank*<br>
+The notebook features the following files:<br>
+annual gdp per capita<br>
+cardon dioxide emissions<br>
+death rate<br>
+forest % of land area<br>
+gini index inequality<br>
+government expenditure per student % of gdp<br>
+military expenditure % of gdp<br>
+population density<br>
+proportion of women in parliament<br>
+renewable energy consumption % of final consumption<br>
+time required to start a business<br>
+<br>
 *Requirements*<br>
 To run this notebook, you'll need the following Python libraries:<br>
 <br>
